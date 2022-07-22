@@ -1,0 +1,110 @@
+                            ¿De que se trata tu negocio?
+
+
+
+                                        PERSONAL
+
+Establecimiento aparte
+ 1) Para la limpieza del establecimiento ---> Aseador (Depende del area)
+ 2) Queme, solde, y haga las PCB de las placas electronicas ---> Tecnicos Electricos
+ 3) Ensamble los diferentes componentes electronicos ---> Tecnicos Electronicos , Mecatronicos
+ 4) Gente Programa la placa electronica y testee el sistema Local ---> Ingenieros Electronicos
+ 5) Desarrollar y dar soporte a la App ---> Ingenieros de sistemas
+ 6) Establecen las comunicaciones entre la placa base y el sistema a distancia ---> Ingenieros de Sistemas
+ 7) Testeo del funcionamiento del sistema ---> Ingeniero de sistemas / Tecnico en sistemas
+ 8) Elaboracion de Carcasa externa del producto en Fique ---> Artesanos
+ 9) Tanque Interno de deposicion de alimentos ---> Proveedor
+ 10) Elaboracion de suministro de carga electrica ---> Tecnico Electrico / Electronico
+ 11) Elaborar el sistema electromecanico para deposicion de alimentos ---> Tecnico Mecatronico
+ 12) Ensamblar todas las piezas ---> Tecnico Mecatronico
+ 13) Testeo final y empaquetado ---> Ingeniero Electronico && Obrero
+ 14) llevar contabilidad ---> Jefes o un contador
+ 15) supervisor ---> Ingeniero con las facultades
+
+Establecimiento personal
+ 1) Todas la labores ---> los integrantes de Grupo
+ 2) Elaboracion de artesania ---> artesano
+
+                                       
+
+                                        
+
+                                            MISION
+
+La empresa Co-PET buscar ofreser al publico amante de los animales, soluciones para la alimentacion de sus
+mascotas y animales de granja, ofreciendole una serie de cuatro productos de alta calidad.
+
+Co-PET debido a su contruccion y modelo de fabricacion, ofrece una version mas rentable para los dueños que
+quieran automatizar la alimentacion de sus mascotas de manera moderna si invertir en costosos dispositivos
+electronicos. CoPET es amigable con el medio ambiente, pues cuenta con ##% de material biodegradable y ##% de
+material reciclado. Su contruccion favorece a su vez con la generacion de empleo de mano de obra Boyacence 
+en especial las relacionadas con la economia naranja en las areas de las artesanias.
+
+CoPET es una empresa de origen Boyacence que busca insentivar la integracion de tecnologias IOT en los hogares
+y fincas de Boyaca sin que esto suponga un gasto elevado para los dueños de los animales y el mismo producto ayude
+a reducir la huella de carbono actual.
+
+El precio de estos productos esta determinado por los costos de produccion de los mismos con lo que se quiere este al 
+alcance de los clientes.
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+                                                
+
+                                                MATRIZ DOFA
+
+
+
+CASO Practico Pedro Jimenez
+
+Actores:
+Pedro Jimenez (PJ)
+Antonio Campos, jefe de PJ (AC)
+SITELCO Empresa manufacturera y fabricadora de circuitos impresos
+Servicios de Ingenieria _ Gerente PJ _ acargo de realizar el trabajo de diseño de productos y elaborar la documentación para la fabricación, una de las unidades más problemáticas de SITELCO.
+Ricardo Gonzalez (RG)
+Grupo del area de Ingenieria de SITELCO
+Grupo del area de Operaciones de SITELCO
+Sergio Mendez (SM)
+
+
+Hechos importantes:
+Posible despido de SITELCO, pues al jefe Antonio Campos (AC) de PJ lo habian bajado de cargos en la empresa.
+PJ fue seleccionado para ser uno de los instructores locales del Programa de Calidad Total
+SITELCO fue fundada por tres antiguos empleados de DiTelecom
+El Nicho de SITELCO era la fabricacion y manufactura de circuitos Impresos
+En su epoca, SITELCO a pesar de ser una compañia pequeña, daba la talla y no tenia competidores.
+Se Inicio una ola de nuevos competidores en el area de las Comunicaciones que aumentaron la demanda a SITELCO subiendo las ventas a mas de 60 millones de euros.
+Los productos que daba SITELCO empezaron a verse como genericos y sus clientes empezaron a basar sus decisiones de compra en precios y plazos de entrega, en vez de la calidad.
+Debido a la nueva perspectiva de los clientes y el fallido intendo de digitalizar la recepcion de pedidos, SITELCO pierde cerca de 40 millones de euros y despide gran parte de su personal.
+Debido a la baja de ventas y problemas en la empresa, la empresa TelSignal compra SITELCO.
+TelSignal empieza a implementar un programa de calidad total el cual intento instaurar en todas las filiales.
+El objetivo del programa de calidad total, no solo era mejorarla calidad del produco y fomentar mejores practicas de gestion, tambien era reunir todas las empresas dispersas y diversas que TelSignal habia adquirido bajo un solo paraguas corporativo.
+Para la Epoca (AC) pide a (PJ) ser uno de los dos instructores  locales para el programa de calidad total.
+(AC) y (PJ) tenian una relacion de amistad / mentor discipulo y concordaban en las formas de como dirigir a las personas.
+El director de SITELCO era conocido en ese momento por ser autoritario y poco sensible con los trabajadores ; Sin embargo el duo de AC y PJ desde la ingenieria del negocio, fomentaba la solucion de probemas y comunicaciones abiertas, conseguian tambien la participacion de los trabajadores.
+AC acciende a PJ al cargo de gerente de servicios de Ingenieria.
+PJ como gerente se servicios de Ingenieria empieza a hacer cambios de personal, reune a los trabajadores para pedir opiniones y mejorar el proceso de diseño de circuitos, trato de integrar una estrategia de informatica, establecio como meta la plena satisfaccion del cliente. Loca cambios fueron un exito.
+PJ irradiaba un entusiasmo contagioso que le hacía un líder popular.  Su trato agradable e igualitario, tanto con sus colegas como con sus subordinados, así como con las mujeres, típicamente de mediana edad, que trabajaban en la línea de montaje de las placas de cir- cuitos impresos, le hacían una persona muy indicada como instructor.
+AC debe asignar un representante del programa de calidad.
+Existe una division, incluso fisica, entre las area de ingenierias y demas operaciones en SITELCO.
+AC era el representante del area de Ingenieria y RG el representante de operaciones.
+La antipatica entre los grupos eran especialmente marcadas por las diferencias entre AC y RG.Mientras AC quería aportar una nueva mentalidad y nuevas prácticas de dirección,  PJ caracterizaba a RG como una persona que daba más importancia a las apariencias y menos a resultados concretos; un directivo que recompensaba a los que imitaban sus creencias y raras veces cuestionaba el status quo.
+AC y RG tenian que elegir a un mismo representante general del programa
+El Jefe General, que casi nunca estaba en la empresa y que atodas vistas no sabia ni un carajo de como era el ambiente de la misma, trata de poner a la cabeza a RG.
+AC esta en desacuerdo y cree que es PJ quien debe asumir el cargo, persona que igual por sus caracteriticas podria ayudar a sanjar as diferencias entre el crupo de Ingenieria y el de operaciones.
+PJ esta dudoso de aceptar el crago, pues tendrian que cambiar varias cosas y el sabe de primera mano lo dificil que es la gente frente al cambio. Otro problema es que tendria como co-instrucyor a SM, una persona que aunque gerente era del tipo bombero y que inclinaba sus preferencias a Operaciones
+
+
+Estilos de Liderazgo:
+
+Gerente de SITELCO: cerrado sobre si mismo, poco amigable y sensible hacia los demas y lo qu elo rodea.
+Ac: carismatico, una persona analitica que apesar de estar incomodo en varias situciones trataba de solucionar lo mejor posibles los problemas.
+PJ: visionista, persona abiertamente amigable que sabe ver hacia futuro y no duda en dar el 100 por un objetivo o bien decir sus motivaciones o preocupaciones.
+Sergio Mendez, cerrado, solo abieto hacia sus intereses, no contribulle ante un fin a menos que el mismo este en ese fin. tiene un trato preferencial hacia el grupo de operaciones.
+Ricardo Gonzalez, un gerente que daba aires de dar mas importancia a las apariencias de un de un proceso y no a sus resultados concretos, cerrado ante sus creencias y resentido a tomar nuevos inputs que contradigan estas ultimas.
+
+Organizacion estructural y cultural de la empresa
+
+Podemos deducir que tras la compra de TelSignal a Sitelco, la organizacion de la empresa esta dada de forma de cadenas de mando, donde cada sector independiente de la empresa posee una jerarquia de menor a mayor grado entre los trabajadores. Cada una de estas ramas posee puestos homologables entre cada sector y reportar a un jefe se sectores. Esta misma se extiende entre sedes de las empresas por las adquicisiones de TelSignal con la finalidad que todas trabajen a la par y de manera semejante; ofreciendo 
